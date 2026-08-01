@@ -2,7 +2,7 @@
   "tasks": [
     {
       "id": "5B318638-04E0-4BD2-883F-111111111111",
-      "title": "Clean UV printer",
+      "title": "trash UV printer",
       "isCompleted": false,
       "priority": "high",
       "dueDate": null
