@@ -1,0 +1,50 @@
+{
+  "tasks": [
+    {
+      "id": "5B318638-04E0-4BD2-883F-111111111111",
+      "title": "Clean UV printer",
+      "isCompleted": false,
+      "priority": "high",
+      "dueDate": null
+    },
+    {
+      "id": "5B318638-04E0-4BD2-883F-222222222222",
+      "title": "Order plywood",
+      "isCompleted": false,
+      "priority": "urgent",
+      "dueDate": null
+    },
+    {
+      "id": "5B318638-04E0-4BD2-883F-333333333333",
+      "title": "Test live Apple TV dashboard",
+      "isCompleted": false,
+      "priority": "normal",
+      "dueDate": null
+    }
+  ],
+  "orders": [
+    {
+      "id": "2FC9D46C-E845-49D0-8737-222222222222",
+      "customerName": "Smith",
+      "description": "UV-printed canvas",
+      "quantity": 1,
+      "status": "In Production",
+      "dueDate": null
+    },
+    {
+      "id": "2FC9D46C-E845-49D0-8737-333333333333",
+      "customerName": "Jones",
+      "description": "Engraved tumblers",
+      "quantity": 12,
+      "status": "Design",
+      "dueDate": null
+    }
+  ],
+  "alerts": [
+    {
+      "id": "60B4E367-E1F6-4768-A688-333333333333",
+      "message": "This dashboard is now loading from GitHub.",
+      "severity": "information"
+    }
+  ]
+}
